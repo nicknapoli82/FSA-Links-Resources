@@ -11,7 +11,7 @@
 + [[https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/][Uncontrolled vs. Controlled Inputs]]
 
 ** jQuery
-+ [[https://api.jquery.com/][+ jquery.com Docs]]
++ [[https://api.jquery.com/][jquery.com Docs]]
 
 ** JS - Specifics
 *** Async / Await and Promises
