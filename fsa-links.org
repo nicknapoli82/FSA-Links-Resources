@@ -1,0 +1,27 @@
+* *A quick helper in finding the reference materials presented from FSA*
+** React
+[[https://reactjs.org/docs/getting-started.html][React Docs]]
+[[https://www.reactenlightenment.com/][React Enlightenment]]
+
+*** React Router
+[[https://tylermcginnis.com/react-router-philosophy-introduction/][Intro to React Router]]
+[[https://reacttraining.com/react-router/][React Training - React Router]]
+
+*** Form input control
+[[https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/][Uncontrolled vs. Controlled Inputs]]
+
+** jQuery
+[[https://api.jquery.com/][jquery.com Docs]]
+
+** JS - Specifics
+*** Async / Await and Promises
+[[https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/][Async JavaScript: From Callbacks, to Promises, to Async/Await]]
+[[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise][MDN Promise]]
+
+** AJAX
+[[https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API][MDN Fetch API]]
+[[https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest][MDN XMLHttprequest]]
+[[https://github.com/axios/axios][Axios API]]
+
+** Books
+[[https://eloquentjavascript.net/][Eloquent Javascript]]
