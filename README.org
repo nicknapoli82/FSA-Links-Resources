@@ -11,11 +11,11 @@
 [[https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/][Uncontrolled vs. Controlled Inputs]]
 
 ** jQuery
-[[https://api.jquery.com/][+ jquery.com Docs]]
++ [[https://api.jquery.com/][+ jquery.com Docs]]
 
 ** JS - Specifics
 *** Async / Await and Promises
-[[https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/][+ Async JavaScript: From Callbacks, to Promises, to Async/Await]]
++ [[https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/][+ Async JavaScript: From Callbacks, to Promises, to Async/Await]]
 + [[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise][MDN Promise]]
 
 ** AJAX
