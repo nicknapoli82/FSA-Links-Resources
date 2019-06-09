@@ -1,5 +1,6 @@
-* Short code snippets to use or remeber
+* Short code snippets to use or remember
 This is subject to heavy modification by myself and other. So be prepared.
+Consider this to be awesome code that you have observed that just needs to be known.
 
 ** React boilerplate
 *** Import root component from which the app works
