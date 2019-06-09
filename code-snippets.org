@@ -1,4 +1,4 @@
-* Short code snippets to use or remmeber
+* Short code snippets to use or remeber
 This is subject to heavy modification by myself and other. So be prepared.
 
 ** React boilerplate
@@ -20,7 +20,7 @@ ReactDOM.render(
   document.getElementById('app')
 );
 #+END_SRC
-** Text maninpulation
+** Text manipulation
 *** A short snippt on using a RegExp to split a string
 Did you know you can pass to String.split a higher order function. I didn't either
 #+BEGIN_SRC javascript
