@@ -18,10 +18,18 @@
 + [[https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/][Async JavaScript: From Callbacks, to Promises, to Async/Await]]
 + [[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise][MDN Promise]]
 
-** AJAX
+*** AJAX
 + [[https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API][MDN Fetch API]]
 + [[https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest][MDN XMLHttprequest]]
 + [[https://github.com/axios/axios][Axios API]]
 
+** Extra *really* useful things
+*** REGEXP
++ [[https://regexr.com/][RegExr]] An online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
++ [[https://en.wikipedia.org/wiki/Regular_expression][Wikipedia Regular Expression]] Learn why this is included in this list.
++ [[https://regexone.com/][RegexOne]] Learn Regular Expressions with simple, interactive exercises.
+
 ** Books
 + [[https://eloquentjavascript.net/][Eloquent Javascript]]
++ [[https://github.com/getify/You-Dont-Know-JS][You Don't Know JS]] Github repo for the book. 
++ [[http://learning.caitlinmorris.net/sfpc/CharlesPetzold_Code.pdf][Code: The Hidden Language of Computer Hardware and Software]] This link is not really legal. So I will remove if asked by owner. I think it is some of the most important reading a young software developer can read though. So its here. Totally recommend just buy this book.
