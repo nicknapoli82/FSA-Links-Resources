@@ -1,0 +1,54 @@
+* Short code snippets to use or remmeber
+This is subject to heavy modification by myself and other. So be prepared.
+
+** React boilerplate
+*** Import root component from which the app works
+Import script into your main html file EG:
+
+HTML
+#+BEGIN_SRC html
+  <body>
+    <div id="app">
+    </div>
+  </body>
+#+END_SRC
+
+JS
+#+BEGIN_SRC rjsx-mode
+ReactDOM.render(
+  <Main />,
+  document.getElementById('app')
+);
+#+END_SRC
+** Text maninpulation
+*** A short snippt on using a RegExp to split a string
+Did you know you can pass to String.split a higher order function. I didn't either
+#+BEGIN_SRC javascript
+const props = {
+  text: "This is a whole bunch of text that may have some redundant text in here. So RegExp should be able to cover that!",
+  searchTerm: "text"
+}
+// if (!props.searchTerm) return props.text
+let parts = props.text.split(new RegExp(`(${props.searchTerm})`, 'gi'));
+console.log(parts); 
+// return <span>{parts.map((part, i) => part.toLowerCase() === props.searchTerm.toLowerCase() ? <span key={i} className="hilite">{part}</span> : part)}</span>;
+#+END_SRC
+I commented out the react portions of the code. So for a simplified version. Try running this code.
+#+BEGIN_SRC javascript
+const props = {
+  text: "This is a whole bunch of text that may have some redundant text in here. So RegExp should be able to cover that!",
+  searchTerm: "text"
+};
+let parts = props.text.split(new RegExp(`(${props.searchTerm})`, 'gi'));
+console.log(parts); 
+  // Result = 
+  // /testing$ node testRegExp.js 
+  // [
+  //   'This is a whole bunch of ',
+  //   'text',
+  //   ' that may have some redundant ',
+  //   'text',
+  //   ' in here. So RegExp should be able to cover that!'
+  // ]
+#+END_SRC
+Thanks to Katherine and Preston for trickling down this awesome code!!!
